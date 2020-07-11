@@ -22,6 +22,7 @@ created by Dominic Bergeron
 #include <ctime>
 #include <limits>
 #include <sys/stat.h>
+#include <omp.h>
 //#include <gsl/gsl_sf_fermi_dirac.h>
 //#include <gsl/gsl_complex.h>
 //#include <gsl/gsl_complex_math.h>
